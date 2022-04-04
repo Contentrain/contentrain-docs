@@ -1,0 +1,10 @@
+{
+  "title": "Contentrain Docs",
+  "url": "https://docs.contentrain.io",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "Contentrain/contentrain-docs",
+  "twitter": "@contentrain_io"
+}
