@@ -4,24 +4,19 @@ description: ''
 position: 1
 category: ''
 features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Unlimited projects 
+  - Unlimited roles & permissions
+  - Internationalization and localization (i18n)
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+![Contentrain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/593e9d1c-e4a5-46fb-e10e-6093dc91a200/public)
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
+**Contentrain** is free Git-based Headless CMS that was created for the developer and content editor experience first. 
 
-<alert type="success">
 
-Your documentation has been created successfully!
+<iframe width="660" height="350" src="https://www.youtube.com/embed/QXtVhpgChyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</alert>
-
-## Features
+ ## Features
 
 <list :items="features"></list>
 
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
