@@ -1,9 +1,9 @@
 {
-  "title": "Contentrain Docs",
+  "title": "Contentrain Headless CMS - User Guide",
   "url": "https://docs.contentrain.io",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/logo.svg",
+    "dark": "/logo-white.svg"
   },
   "github": "Contentrain/contentrain-docs",
   "twitter": "@contentrain_io"
