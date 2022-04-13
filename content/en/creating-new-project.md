@@ -64,7 +64,7 @@ The `Admin` is default role.
 [More details ](/)
 
 ## Collections
-In Collections, you can create your own collections, load your previously saved collections or buy/sell a new colection from **Contentrain Collection Marketplace.**
+In Collections, you can create your own collections, load your previously saved collections or buy/sell a new collection from **Contentrain Collection Marketplace.**
 
 <alert type="warning">
 
@@ -72,12 +72,12 @@ Contentrain Collection Marketplace will be available coming soon.
 
 </alert>
 
-![colections](/images/collections.png)
+![Collections](/images/collections.png)
 
 [More details ](/)
 
 
-### Creating a new colection
+### Creating a new l
 
 To createing a a new collection, Click to **Create a new collection** button.
 

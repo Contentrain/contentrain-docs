@@ -1,7 +1,7 @@
 ---
 title: Color Palette
 description: ''
-position: 3
+position: 12
 category: Extensions
 ---
 

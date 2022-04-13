@@ -7,10 +7,9 @@ category: Getting Started
 
 To creating new contents, go to your **Dashboard**, and click to **Go to Project**
 
+<!-- ![dashboard-project](/images/dashboard-project.png) -->
 
-![dashboard-project](/images/dashboard-project.png)
-
-Choose your Collection on sidebar.
+Choose your **Content** on sidebar.
 
 ![content-dashboard](/images/content-dashboard.png)
 

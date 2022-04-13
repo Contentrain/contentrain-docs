@@ -1,7 +1,7 @@
 ---
 title: Typography
 description: ''
-position: 3
+position: 10
 category: Extensions
 ---
 
