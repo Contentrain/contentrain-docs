@@ -37,5 +37,15 @@
     "ID": "4ac48a64-2c6f-48ce-b41f-2e37e9a982ca",
     "category": "Extensions",
     "position": "10"
+  },
+  {
+    "createdAt": 1650380125747,
+    "slug": "support",
+    "description": "",
+    "title": "Tickets",
+    "content": "To create a ticket for technical support, go to **Support** page and click to **Create a new ticket.**\n\n![Creating new support ticket](/images/ticket.png)",
+    "ID": "2dd41fa3-0b4f-4457-bf8e-eaa5d02c83ab",
+    "category": "Support",
+    "position": "14"
   }
 ]
