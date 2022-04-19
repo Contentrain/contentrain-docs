@@ -112,5 +112,15 @@
     "ID": "7a2d1cd1-9e23-49a0-bd4e-0d9e140512c8",
     "category": "Getting Started",
     "position": "2"
+  },
+  {
+    "createdAt": 1650384153541,
+    "slug": "creating-new-project",
+    "description": "",
+    "title": "Creating new project",
+    "content": "\n## Start a new project\n\nGo to your **Contentrain** dashboard, and click to **Start a new project**. \n\n![Dashboard](/images/dashboard.png)\n\nAnd setup your first project. \n\n![Dashboard](/images/create-project.png)\n\n- **Name**: Project name should be slugify like that, `my-awesome-project`\n- **Project Details**: Write your project description.\n\n### Select a Git provider\n\nYou can select **GitHub** or **GitLab** for your repository.\n\n<alert type=\"warning\">\n\nGitLab provider will be available coming soon.\n\n</alert>\n\n### Select a starter\n\nYou can select ready to use starters like **Next.js**, **Gatsby** and **Nuxt Js**. \n\nOr you can select manual project.\n\n## Setup your project?\n\nWhen you click to **Create**, you will be able to connect with your Git repository and Contentrain. \n\n### Choose your repository\n\nSo, you can choose the any repository you want and click to **Next**\n\n![Dashboard](/images/setup.png)\n\nAnd you can configure your branch settings. You can choose your master/main branch or stage branch.\n\n- **Path**: The main directory where the Contentrain JSON database is created.\n- **Static path**: You media assets directory like `/static`\n\n![Branch](/images/branch-settings.png)\n\nClick to Submit and begin to setup **Roles and Permissions**\n\n## Roles and Permissions\n\nIn here, you can create your user seats and choose your roles and permissions of your project.\n\n![Roles](/images/roles.png)\n\nThe `Admin` is default role.\n\n[More details ](/)\n\n## Collections\nIn Collections, you can create your own collections, load your previously saved collections or buy/sell a new collection from **Contentrain Collection Marketplace.**\n\n<alert type=\"warning\">\n\nContentrain Collection Marketplace will be available coming soon.\n\n</alert>\n\n![Collections](/images/collections.png)\n\n[More details ](/)\n\n\n### Creating a new l\n\nTo createing a a new collection, Click to **Create a new collection** button.\n\n![create-collection](/images/create-collection.png)\n\n- **Collection Name**: Your collection name should be like `my-blog`\n- **Select Permission**: \n- **i18n**: \n\n#### Fields\n\nIn Fields modal, you can add new field to your collection.\n\n![fields](/images/fields.png)\n\nAdd your fields and click to **Done**",
+    "ID": "d9b6226e-7f05-4cd5-99e6-31653ef600c3",
+    "category": "Getting Started",
+    "position": "3"
   }
 ]
