@@ -6,5 +6,15 @@
     "content": "asdasd",
     "ID": "a0827963-91b2-4152-8b7b-09a70c0d0782",
     "slug": "test"
+  },
+  {
+    "createdAt": 1650378657004,
+    "title": "Collections",
+    "slug": "collections",
+    "ID": "ce857c32-ff36-408c-a55b-3060136e1dfe",
+    "content": "**Collections** are content components that you create in a JSON template.\n\n![Collection](/images/collections-s.png)\n\n## Custom Collections\n\nThese are the collections you create for your own project using custom fields.\n\n## Saved Collections\n\nCollections you save as reusable in other projects.\n\n## Collection Marketplace\n\nIt is a marketplace where you can buy and sell the collections you have created in the Contentrain community.\n\n<alert type=\"warning\">\n\nComing Soon\n\n</alert>\n\n## Creating a new collection\n\nTo create a new collection, go to **Collections** and click to **create a new collection**\n\n\n<alert type=\"info\">\nCollection names must be slugify.\n\n**Example**: blog-post\n\n</alert>\n\n\n- You can choose a permissions for this collection.\n- You can add unlimited languages variables for i18n.\n\n![New Collections](/images/new-collection.png)\n\n## Edit collection fields\n\nTo edit a collection fields, go to **Collections** and click to collection detail button.\n\n![Edit Collections](/images/edit-collection.png)",
+    "description": "",
+    "category": "Setup",
+    "position": "5"
   }
 ]
