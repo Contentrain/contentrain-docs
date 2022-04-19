@@ -101,5 +101,15 @@
     "ID": "84ecd718-b5e2-4194-9842-e5a51d48d8ee",
     "category": "Configurations",
     "position": "13"
+  },
+  {
+    "createdAt": 1650384046950,
+    "slug": "getting-started",
+    "description": "",
+    "title": "Creating new Contentrain Account",
+    "content": "- Go to [contentrain.io](https://contentrain.io/)\n- Submit an early access request.\n\n<alert type=\"warning\">\n\nCurrently, only users with early access can use it.\n\n</alert>\n\n\n![Early Access](/images/early-access.png)",
+    "ID": "7a2d1cd1-9e23-49a0-bd4e-0d9e140512c8",
+    "category": "Getting Started",
+    "position": "2"
   }
 ]
