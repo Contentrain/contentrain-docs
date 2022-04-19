@@ -57,5 +57,15 @@
     "ID": "5c9b705c-71d9-49bd-af9b-1a59c261abf0",
     "category": "Setup",
     "position": "6"
+  },
+  {
+    "createdAt": 1650381702302,
+    "slug": "plans",
+    "description": "",
+    "title": "Pricing",
+    "content": "Get more details our plans [here](https://contentrain.io/pricing).",
+    "ID": "a848d993-4587-4219-827e-60dd2f7938bc",
+    "category": "Plans",
+    "position": "15"
   }
 ]
