@@ -27,5 +27,15 @@
     "ID": "10ae52dc-f81a-4b5d-8565-a21ac248f9d3",
     "category": "Setup",
     "position": "7"
+  },
+  {
+    "createdAt": 1650380013088,
+    "slug": "typography",
+    "description": "",
+    "title": "Typography",
+    "content": "Coming Soon",
+    "ID": "4ac48a64-2c6f-48ce-b41f-2e37e9a982ca",
+    "category": "Extensions",
+    "position": "10"
   }
 ]
