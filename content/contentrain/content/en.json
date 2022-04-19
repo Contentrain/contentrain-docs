@@ -67,5 +67,15 @@
     "ID": "a848d993-4587-4219-827e-60dd2f7938bc",
     "category": "Plans",
     "position": "15"
+  },
+  {
+    "createdAt": 1650381747300,
+    "slug": "informations",
+    "description": "",
+    "title": "Informations",
+    "content": "Coming Soon",
+    "ID": "00d9e7e4-76fd-4860-ab43-1b5111c7a1cd",
+    "category": "Extensions",
+    "position": "11"
   }
 ]
