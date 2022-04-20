@@ -6,7 +6,7 @@
     "contantrain-io": {
       "hosting": {
         "contentrain-docs": [
-          "contentrain-docs"
+          "contentrain-docs-pages"
         ]
       }
     }

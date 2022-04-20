@@ -12,5 +12,11 @@
         "destination": "/index.html"
       }
     ]
+  },
+  "emulators": {
+    "hosting": {
+      "host": "localhost",
+      "port": "3001"
+    }
   }
 }
