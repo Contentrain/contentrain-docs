@@ -1,14 +1,5 @@
 {
   "projects": {
-    "default": "contantrain-io"
-  },
-  "targets": {
-    "contantrain-io": {
-      "hosting": {
-        "contentrain-docs": [
-          "contentrain-docs-pages"
-        ]
-      }
-    }
+    "default": "contentrain-doc"
   }
 }
