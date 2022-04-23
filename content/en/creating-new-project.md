@@ -12,11 +12,11 @@ position: "3"
 
 ## Start a new project
 
-Go to your **Contentrain** dashboard, and click to **Start a new project**. 
+Go to your **Contentrain** dashboard, and click on **Start a new project**. 
 
 ![Dashboard](/images/dashboard.png)
 
-And setup your first project. 
+And set up your first project. 
 
 ![Dashboard](/images/create-project.png)
 
@@ -25,7 +25,7 @@ And setup your first project.
 
 <alert type="info">
 
-Project names are should be unique as globally. Which means, if the project name is already taken, you should choose another name.
+Project names are should be unique globally. This means, that if the project name is already taken, you should choose another name.
 
 </alert>
 
@@ -41,36 +41,36 @@ GitLab provider will be available coming soon.
 
 ### Select a starter
 
-You can select ready to use starters like **Next.js**, **Gatsby** and **Nuxt Js**. 
+You can select ready-to-use starters like **Next.js**, **Gatsby**, and **Nuxt Js**. 
 
-Or you can select manual project.
+Or you can select a manual project.
 
 ## Setup your project?
 
-When you click to **Create**, you will be able to connect with your Git repository and Contentrain. 
+When you click **Create**, you will be able to connect with your Git repository and Contentrain. 
 
 ### Choose your repository
 
-So, you can choose the any repository you want and click to **Next**
+So, you can choose any repository you want and click on **Next**
 
 ![Dashboard](/images/setup.png)
 
 And you can configure your branch settings. You can choose your master/main branch or stage branch.
 
 - **Path**: The main directory where the Contentrain JSON database is created.
-- **Static path**: You media assets directory like `/static`
+- **Static path**: Your media assets directory like `/static`
 
 ![Branch](/images/branch-settings.png)
 
-Click to Submit and begin to setup **Roles and Permissions**
+Click to **Submit** and begin to set up **Roles and Permissions**
 
 ## Roles and Permissions
 
-In here, you can create your user seats and choose your roles and permissions of your project.
+Here, you can create your user seats and choose the roles and permissions of your project.
 
 ![Roles](/images/roles.png)
 
-The `Admin` is default role.
+The `Admin` is the default role.
 
 [More details ](/)
 
@@ -90,7 +90,7 @@ Contentrain Collection Marketplace will be available coming soon.
 
 ### Creating a new collection
 
-To createing a a new collection, Click to **Create a new collection** button.
+To create a new collection, Click to **Create a new collection** button.
 
 ![create-collection](/images/create-collection.png)
 
@@ -100,8 +100,33 @@ To createing a a new collection, Click to **Create a new collection** button.
 
 #### Fields
 
-In Fields modal, you can add new field to your collection.
+In the **Fields modal**, you can add a new field to your collection.
 
 ![fields](/images/fields.png)
 
-Add your fields and click to **Done**
+##### Field Types
+
+|Type|Description|Required|
+|-|-|-|-|
+|String| |optional|
+|Array| |optional|
+|Boolean| |optional|
+|Number| |optional|
+|Relation| |optional|
+
+##### Field Components
+
+|Type|Description|Required|
+|-|-|-|-|
+|Color| |optional|
+|Date| |optional|
+|Duration| |optional|
+|Email| |optional|
+|Long Text| |optional|
+|Media| |optional|
+|Phone Number| |optional|
+|Rich Text Editor| |optional|
+|Single Line Text| |optional|
+|URL| |optional|
+
+Add your fields and click on **Done**
