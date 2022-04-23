@@ -6,7 +6,7 @@ slug: "collections"
 ID: "ce857c32-ff36-408c-a55b-3060136e1dfe"
 description: ""
 category: "Setup"
-position: "5"
+position: 6
 
 ---
 **Collections** are content components that you create in a JSON template.
