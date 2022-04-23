@@ -85,7 +85,7 @@ Contentrain Collection Marketplace will be available coming soon.
 
 ![Collections](/images/collections.png)
 
-[More details ](/)
+
 
 
 ### Creating a new collection
@@ -95,8 +95,10 @@ To create a new collection, Click to **Create a new collection** button.
 ![create-collection](/images/create-collection.png)
 
 - **Collection Name**: Your collection name should be like `my-blog`
-- **Select Permission**: 
-- **i18n**: 
+- **Select Permission**: Choose the permissions to role about this collection.
+- **i18n**: You can add any language for your i18n projects.
+
+See details about i18(Localization) [here. ](/i18n)
 
 #### Fields
 
@@ -104,27 +106,29 @@ In the **Fields modal**, you can add a new field to your collection.
 
 ![fields](/images/fields.png)
 
-| Type     | Description | Required |
-| -------- | ----------- | -------- |
-| String   |             | optional |
-| Array    |             | optional |
-| Boolean  |             | optional |
-| Number   |             | optional |
-| Relation |             | optional |
+##### Field Types
 
+|Type|Description|Required|
+|-|-|-|-|
+|String| |optional|
+|Array| |optional|
+|Boolean| |optional|
+|Number| |optional|
+|Relation| |optional|
 
 ##### Field Components
 
-| Type             | Description | Required |
-| ---------------- | ----------- | -------- |
-| Date             |             | optional |
-| Duration         |             | optional |
-| Email            |             | optional |
-| Long Text        |             | optional |
-| Media            |             | optional |
-| Phone Number     |             | optional |
-| Rich Text Editor |             | optional |
-| Single Line Text |             | optional |
-| URL              |             | optional |
+|Type|Description|Required|
+|-|-|-|-|
+|Color| |optional|
+|Date| |optional|
+|Duration| |optional|
+|Email| |optional|
+|Long Text| |optional|
+|Media| |optional|
+|Phone Number| |optional|
+|Rich Text Editor| |optional|
+|Single Line Text| |optional|
+|URL| |optional|
 
 Add your fields and click on **Done**
