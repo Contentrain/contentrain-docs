@@ -104,13 +104,13 @@ In the **Fields modal**, you can add a new field to your collection.
 
 ##### Field Types
 
-|Type|Description|Required|
-|-|-|-|-|
-|String| |optional|
-|Array| |optional|
-|Boolean| |optional|
-|Number| |optional|
-|Relation| |optional|
+| Type     | Description | Required |
+| -------- | ----------- | -------- |
+| String   |             | optional |
+| Array    |             | optional |
+| Boolean  |             | optional |
+| Number   |             | optional |
+| Relation |             | optional |
 
 ##### Field Components
 
