@@ -85,7 +85,7 @@ Contentrain Collection Marketplace will be available coming soon.
 
 ![Collections](/images/collections.png)
 
-
+[More details ](/)
 
 
 ### Creating a new collection
@@ -96,8 +96,7 @@ To create a new collection, Click to **Create a new collection** button.
 
 - **Collection Name**: Your collection name should be like `my-blog`
 - **Select Permission**: 
-- **i18n**: You can add any language for i18n. 
-Check details about i18n(Localization) in [here.](/i18n) 
+- **i18n**: 
 
 #### Fields
 
@@ -105,8 +104,27 @@ In the **Fields modal**, you can add a new field to your collection.
 
 ![fields](/images/fields.png)
 
-##### Field Types
+| Type     | Description | Required |
+| -------- | ----------- | -------- |
+| String   |             | optional |
+| Array    |             | optional |
+| Boolean  |             | optional |
+| Number   |             | optional |
+| Relation |             | optional |
 
 
+##### Field Components
+
+| Type             | Description | Required |
+| ---------------- | ----------- | -------- |
+| Date             |             | optional |
+| Duration         |             | optional |
+| Email            |             | optional |
+| Long Text        |             | optional |
+| Media            |             | optional |
+| Phone Number     |             | optional |
+| Rich Text Editor |             | optional |
+| Single Line Text |             | optional |
+| URL              |             | optional |
 
 Add your fields and click on **Done**
