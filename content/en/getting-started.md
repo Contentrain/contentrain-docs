@@ -12,6 +12,6 @@ position: "2"
 - Go to [contentrain.io](https://contentrain.io/)
 - Click **Get Started** and register. 
 
-You can choose a register method default as Email, Google and GitHub. 
+You can choose a register method default as Email, Google, and GitHub. 
 
 ![Register](/images/register.png)
