@@ -6,7 +6,7 @@ description: ""
 title: "Project Configurations"
 ID: "84ecd718-b5e2-4194-9842-e5a51d48d8ee"
 category: "Configurations"
-position: "13"
+position: 14
 
 ---
 ## Git Configuration
