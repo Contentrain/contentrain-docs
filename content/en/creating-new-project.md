@@ -114,17 +114,17 @@ In the **Fields modal**, you can add a new field to your collection.
 
 ##### Field Components
 
-|Type|Description|Required|
-|-|-|-|-|
-|Color| |optional|
-|Date| |optional|
-|Duration| |optional|
-|Email| |optional|
-|Long Text| |optional|
-|Media| |optional|
-|Phone Number| |optional|
-|Rich Text Editor| |optional|
-|Single Line Text| |optional|
-|URL| |optional|
+| Type             | Description | Required |
+| ---------------- | ----------- | -------- |
+| Color            |             | optional |
+| Date             |             | optional |
+| Duration         |             | optional |
+| Email            |             | optional |
+| Long Text        |             | optional |
+| Media            |             | optional |
+| Phone Number     |             | optional |
+| Rich Text Editor |             | optional |
+| Single Line Text |             | optional |
+| URL              |             | optional |
 
 Add your fields and click on **Done**
