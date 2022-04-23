@@ -10,13 +10,8 @@ position: "2"
 
 ---
 - Go to [contentrain.io](https://contentrain.io/)
-- Submit an early access request.
+- Click **Get Started** and register. 
 
-<alert type="warning">
+You can choose a register method default as Email, Google and GitHub. 
 
-Currently, only users with early access can use it.
-
-</alert>
-
-
-![Early Access](/images/early-access.png)
+![Register](/images/register.png)

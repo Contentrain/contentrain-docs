@@ -20,8 +20,14 @@ And setup your first project.
 
 ![Dashboard](/images/create-project.png)
 
-- **Name**: Project name should be slugify like that, `my-awesome-project`
+- **Name**: Project name should be **unique*** and **slugify** like that: `my-awesome-project`
 - **Project Details**: Write your project description.
+
+<alert type="info">
+
+Project names are should be unique as globally. Which means, if the project name is already taken, you should choose another name.
+
+</alert>
 
 ### Select a Git provider
 
@@ -82,7 +88,7 @@ Contentrain Collection Marketplace will be available coming soon.
 [More details ](/)
 
 
-### Creating a new l
+### Creating a new collection
 
 To createing a a new collection, Click to **Create a new collection** button.
 

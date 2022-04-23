@@ -7,8 +7,8 @@ title: "Project Configurations"
 ID: "84ecd718-b5e2-4194-9842-e5a51d48d8ee"
 category: "Configurations"
 position: "13"
-
 ---
+
 ## Git Configuration
 
 You can setup your git configurations like **branch**, **path** or **repository** name.
@@ -17,7 +17,7 @@ To setup you git configurations, go to **Options**.
 
 ## Archive Project
 
-If you want to unpublish your project and use it again later, you can archive it.
+If you want to don't use your project, you can simply archive it and you can use again later.
 
 ## Delete Project
 
