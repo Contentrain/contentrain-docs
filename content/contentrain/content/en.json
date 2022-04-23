@@ -44,7 +44,7 @@
     "position": 14
   },
   {
-    "updatedAt": 1650747747323,
+    "updatedAt": 1650747753208,
     "createdAt": 1650381644799,
     "slug": "roles",
     "description": "",
@@ -52,7 +52,7 @@
     "content": "\nRoles are where you define permissions and roles for different user groups.\n\nTo create a new role, go to **Roles** and click to **create a new permissions**\n\n- **Role Name:** Your custom role name \n\n<alert type=\"info\">\n\n**Example**: Content Editor\n\n</alert>\n\n\n\n\n- **Role Description:** Role's description.\n\n![Creating new support ticket](/images/new-roles.png)",
     "ID": "5c9b705c-71d9-49bd-af9b-1a59c261abf0",
     "category": "Setup",
-    "position": 7
+    "position": 6
   },
   {
     "createdAt": 1650381702302,
