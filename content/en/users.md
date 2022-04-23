@@ -6,7 +6,7 @@ description: ""
 title: "Users"
 ID: "10ae52dc-f81a-4b5d-8565-a21ac248f9d3"
 category: "Setup"
-position: 8
+position: 7
 
 ---
 To add a new team member to your project, go to **Users** and click to **Add** button.
