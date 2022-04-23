@@ -1,4 +1,5 @@
 ---
+updatedAt: 1650733690038
 createdAt: 1650379940512
 slug: "users"
 description: ""
@@ -12,5 +13,4 @@ To add a new team member to your project, go to **Users** and click to **Add** b
 
 ![Add a new user](/images/add-user.png)
 
-
-When you add the user, a confirmation link will be sent to the user's e-mail address.
+When adding a new user, the confirmation link will be sent, which is a one-time token,  and the user should be accepted during the first login.
