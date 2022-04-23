@@ -107,27 +107,6 @@ In the **Fields modal**, you can add a new field to your collection.
 
 ##### Field Types
 
-| Type     | Description | Required |
-| -------- | ----------- | -------- |
-| String   |             | optional |
-| Array    |             | optional |
-| Boolean  |             | optional |
-| Number   |             | optional |
-| Relation |             | optional |
 
-
-##### Field Components
-
-| Type             | Description | Required |
-| ---------------- | ----------- | -------- |
-| Date             |             | optional |
-| Duration         |             | optional |
-| Email            |             | optional |
-| Long Text        |             | optional |
-| Media            |             | optional |
-| Phone Number     |             | optional |
-| Rich Text Editor |             | optional |
-| Single Line Text |             | optional |
-| URL              |             | optional |
 
 Add your fields and click on **Done**
