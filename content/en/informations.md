@@ -6,13 +6,7 @@ description: ""
 title: "Informations"
 ID: "00d9e7e4-76fd-4860-ab43-1b5111c7a1cd"
 category: "Extensions"
-position: "20"
+position: 12
 
 ---
-
-<alert type="warning">
-
-
-Coming Soon
-
-</alert>
+Coming Soon.
