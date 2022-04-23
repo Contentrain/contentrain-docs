@@ -86,8 +86,6 @@ Contentrain Collection Marketplace will be available coming soon.
 ![Collections](/images/collections.png)
 
 
-
-
 ### Creating a new collection
 
 To create a new collection, Click to **Create a new collection** button.
