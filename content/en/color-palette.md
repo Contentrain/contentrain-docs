@@ -6,7 +6,7 @@ description: ""
 title: "Color Palette"
 ID: "bc6be966-6a9f-4fa9-83e1-d8a3503ba9f8"
 category: "Extensions"
-position: "12"
+position: 13
 
 ---
 <alert type="warning">
