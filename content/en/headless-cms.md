@@ -1,12 +1,12 @@
 ---
-updatedAt: 1650748121323
+updatedAt: 1650748126652
 createdAt: 1650381959103
 slug: "headless-cms"
 description: ""
 title: "What is Headless CMS?"
 ID: "190e783a-e10b-4365-ab72-b87067c7e24d"
 category: "JAMstack Ecosystem"
-position: 2
+position: 1
 
 ---
 Before you start, you can review detailed information about how JAMStack and Headless CMS works. 
