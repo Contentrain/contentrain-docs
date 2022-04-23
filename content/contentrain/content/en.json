@@ -97,7 +97,7 @@
     "slug": "git-configurations",
     "description": "",
     "title": "Project Configurations",
-    "content": "## Git Configuration\n\nYou can setup your git configurations like **branch**, **path** or **repository** name.\n\nTo setup you git configurations, go to **Options**.\n\n## Archive Project\n\nIf you want to unpublish your project and use it again later, you can archive it.\n\n## Delete Project\n\nIf you no longer use your project and do not want it to appear in your subscription, you can delete it. \n\n<alert type=\"warning\">\n\nThis progress cannot be undone.\n\n</alert>",
+    "content": "## Git Configuration\n\nYou can setup your git configurations like **branch**, **path** or **repository** name.\n\nTo set up your git configurations, go to **Options**.\n\n## Archive Project\n\nIf you don't want to use your project, you can simply archive it and you can use it again later.\n\n## Delete Project\n\nIf you no longer use your project and do not want it to appear in your subscription, you can delete it. \n\n<alert type=\"warning\">\n\nThis progress cannot be undone.\n\n</alert>",
     "ID": "84ecd718-b5e2-4194-9842-e5a51d48d8ee",
     "category": "Configurations",
     "position": "13"
