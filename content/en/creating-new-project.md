@@ -72,8 +72,6 @@ Here, you can create your user seats and choose the roles and permissions of you
 
 The `Admin` is the default role.
 
-[More details ](/)
-
 ## Collections
 In Collections, you can create your own collections, load your previously saved collections or buy/sell a new collection from **Contentrain Collection Marketplace.**
 
