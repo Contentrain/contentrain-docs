@@ -1,9 +1,9 @@
 ---
-updatedAt: 1650384082484
+updatedAt: 1650878201968
 createdAt: 1650384046950
 slug: "getting-started"
 description: ""
-title: "Creating new Contentrain Account"
+title: "Creating new account"
 ID: "7a2d1cd1-9e23-49a0-bd4e-0d9e140512c8"
 category: "Getting Started"
 position: "2"
