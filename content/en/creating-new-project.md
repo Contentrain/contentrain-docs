@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650878558369
+updatedAt: 1650879502221
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -53,11 +53,30 @@ Using GitHub's provider, you should have to set up some permission for your acco
 ![github-permissions](/images/github-permissions.png)
 
 
-### Select a starter
+### Continuing with Starters
 
-You can select ready-to-use starters like **Next.js**, **Gatsby**, and **Nuxt Js**. 
+You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **Nuxt Js**. 
 
 Or you can select a manual project.
+
+#### Using Next.js Starter
+
+[Next.js](https://nextjs.org/) is a minimalistic framework for server-rendered React applications as well as statically exported React apps.
+
+
+#### Using Gatsby Starter
+[Gatsby](https://www.gatsbyjs.com/) is a fast and flexible framework that makes building websites with any CMS, API, or database fun again.
+
+
+#### Using Nuxtjs Starter
+[Nuxtjs](https://nextjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
+
+
+<alert type="info">
+
+If you want additional starter JAMStack frameworks, you can let us know on [Twitter.](https://twitter.com/intent/tweet?text=Hey%20@Contentrain_io%20%F0%9F%91%8B) 
+
+</alert>
 
 ## Setup your project?
 
