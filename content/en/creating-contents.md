@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650884076105
+updatedAt: 1650884259750
 createdAt: 1650384263497
 slug: "creating-contents"
 description: ""
@@ -26,6 +26,18 @@ If the contents were added successfully, your contents will be visible on the co
 
 ### Search contents
 
+You can search the contents for `Title`
+
+![search-content](/images/search-content.png)
+
 ### Filter the content table
 
+Click to **Filter** icon on the top right, to filter the content table columns.
+
+![content-table](/images/filter-table.png)
+
 ### Delete content
+
+To delete content, click to **More** icon on content cards.
+
+![delete-table](/images/delete-content.png)
