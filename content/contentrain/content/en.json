@@ -77,17 +77,6 @@
     "position": 11
   },
   {
-    "updatedAt": 1650748106511,
-    "createdAt": 1650381884592,
-    "slug": "i18n.md",
-    "description": "",
-    "title": "i18n (Localization)",
-    "content": "i18n (Localization) is where you add your any language to each your collections.\n\n![localization](/images/i18n.png)\n\nTo add a new language click to **Select a language** on the collection.\n\nFor example, if you add **English** and **Deutch** languages, **Contentrain** will create the **/en** and **/de** folder paths in your JSON database structure.",
-    "ID": "38707734-1ff0-4698-9064-de81dd33a78a",
-    "category": "Setup",
-    "position": 8
-  },
-  {
     "updatedAt": 1650748126652,
     "createdAt": 1650381959103,
     "slug": "headless-cms",
