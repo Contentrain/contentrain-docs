@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650879502221
+updatedAt: 1650880231427
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -42,7 +42,7 @@ GitLab provider will be available coming soon.
 
 #### Uploading project logo 
 
-You can set a logo for each project. You can upload JPG, PNG or GIF image formats.
+You can set a logo for each project. You can upload **JPG**, **PNG**, or **GIF** image formats.
 
 ![logo-upload](/images/logo-upload.png)
 
@@ -53,9 +53,9 @@ Using GitHub's provider, you should have to set up some permission for your acco
 ![github-permissions](/images/github-permissions.png)
 
 
-### Continuing with Starters
+### Continuing with starters
 
-You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **Nuxt Js**. 
+You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **NuxtJs**. 
 
 Or you can select a manual project.
 
@@ -63,14 +63,34 @@ Or you can select a manual project.
 
 [Next.js](https://nextjs.org/) is a minimalistic framework for server-rendered React applications as well as statically exported React apps.
 
+**Source:** [Contentrain + Next.js Blog Starter](https://github.com/Contentrain/nextjs-blog-starter)
+
 
 #### Using Gatsby Starter
+
 [Gatsby](https://www.gatsbyjs.com/) is a fast and flexible framework that makes building websites with any CMS, API, or database fun again.
 
 
+**Source:** [Contentrain + Gatsby Blog Starter ](https://github.com/Contentrain/gatsby-blog-starter)
+
 #### Using Nuxtjs Starter
+
 [Nuxtjs](https://nextjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
 
+**Source:** [Contentrain + Nuxtjs Blog Starter](https://github.com/Contentrain/nuxt-blog-starter)
+
+
+#### Using Eleventy (11ty) Starter
+
+<alert type="warning">
+
+Eleventy (11ty) starters will be available coming soon.
+
+</alert>
+
+---
+
+#### Do you want more starters?
 
 <alert type="info">
 
