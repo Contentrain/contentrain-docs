@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650381771424
+updatedAt: 1650873707317
 createdAt: 1650381747300
 slug: "informations"
 description: ""
@@ -9,4 +9,8 @@ category: "Extensions"
 position: 11
 
 ---
-Coming Soon.
+<alert type="warning">
+
+Coming Soon
+
+</alert>
