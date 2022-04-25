@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650883938293
+updatedAt: 1650884059688
 createdAt: 1650384263497
 slug: "creating-contents"
 description: ""
