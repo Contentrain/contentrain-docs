@@ -152,5 +152,15 @@
     "ID": "bc6be966-6a9f-4fa9-83e1-d8a3503ba9f8",
     "category": "Extensions",
     "position": 12
+  },
+  {
+    "title": "i18n (Localization) ",
+    "content": "i18n (Localization) is where you add any language to each of your collections.\n\n![localization](/images/i18n.png)\n\nTo add a new language click to **Select a language** on the collection.\n\nFor example, if you add **English** and **Deutch** languages, **Contentrain** will create the **/en** and **/de** folder paths in your JSON database structure.",
+    "slug": "i18n",
+    "description": "",
+    "ID": "52069231-4928-4e26-b0dc-1fed8d3607e1",
+    "category": "Setup",
+    "position": 7,
+    "createdAt": 1650873901205
   }
 ]
