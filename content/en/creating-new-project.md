@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650880486217
+updatedAt: 1650884959522
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -49,6 +49,13 @@ You can set a logo for each project. You can upload **JPG**, **PNG**, or **GIF**
 #### GitHub Provider 
 
 Using GitHub's provider, you should have to set up some permission for your account. 
+
+**Permissions:**
+
+- **Read** access to metadata
+- **Read** and **write** access to administration and code
+
+
 
 ![github-permissions](/images/github-permissions.png)
 
