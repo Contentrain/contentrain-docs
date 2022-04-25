@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650880231427
+updatedAt: 1650880486217
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -98,7 +98,7 @@ If you want additional starter JAMStack frameworks, you can let us know on [Twit
 
 </alert>
 
-## Setup your project?
+## Setup your project
 
 When you click **Create**, you will be able to connect with your Git repository and Contentrain. 
 
