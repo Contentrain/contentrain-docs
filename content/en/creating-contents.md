@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650748463505
+updatedAt: 1650883938293
 createdAt: 1650384263497
 slug: "creating-contents"
 description: ""
@@ -10,7 +10,7 @@ position: 4
 
 ---
 
-To creating new contents, go to your **Dashboard**, and click to **Go to Project**
+To create new content, go to your **Dashboard**, and click **Go to Project**
 
 <!-- ![dashboard-project](/images/dashboard-project.png) -->
 
@@ -18,4 +18,14 @@ Choose your **Content** on sidebar.
 
 ![content-dashboard](/images/content-dashboard.png)
 
-And click to **Add Content** on the top right.
+And click **Add Content** on the top right.
+
+If the contents were added successfully, your contents will be visible on the content table.
+
+![content-table](/images/content-table.png)
+
+### Search contents
+
+### Filter the content table
+
+### Delete content
