@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650747564692
+updatedAt: 1650873716171
 createdAt: 1650380013088
 slug: "typography"
 description: ""
@@ -9,4 +9,8 @@ category: "Extensions"
 position: 10
 
 ---
+<alert type="warning">
+
 Coming Soon
+
+</alert>
