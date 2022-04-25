@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650878049954
+updatedAt: 1650878558369
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -39,13 +39,18 @@ GitLab provider will be available coming soon.
 
 </alert>
 
+
+#### Uploading project logo 
+
+You can set a logo for each project. You can upload JPG, PNG or GIF image formats.
+
+![logo-upload](/images/logo-upload.png)
+
 #### GitHub Provider 
 
 Using GitHub's provider, you should have to set up some permission for your account. 
 
-![github-permissions
-](/images/github-permissions
-.png)
+![github-permissions](/images/github-permissions.png)
 
 
 ### Select a starter
