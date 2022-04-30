@@ -1,9 +1,9 @@
 ---
-updatedAt: 1651308227381
+updatedAt: 1651308258517
 createdAt: 1650382004866
 slug: "project-options"
 description: ""
-title: "Configurations"
+title: "Project Configurations"
 ID: "84ecd718-b5e2-4194-9842-e5a51d48d8ee"
 category: "Configurations"
 position: 13
