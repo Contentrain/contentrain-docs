@@ -18,7 +18,7 @@ features:
 
 ![Contentrain](https://res.cloudinary.com/dowlbhxa2/image/upload/v1650603456/og_dark_n3qvck.jpg)
 
-**Contentrain** is Git-based Headless CMS that was created for the developer and content editor experience first. 
+[**Contentrain**](https://contentrain.io) is Git-based Headless CMS that was created for the developer and content editor experience first. 
 
 We created **Contentrain** for agencies, startups, freelancers, or corporates to faster their development and content management time. 
 
