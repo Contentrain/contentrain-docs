@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650748126652
+updatedAt: 1651302757673
 createdAt: 1650381959103
 slug: "headless-cms"
 description: ""
@@ -17,4 +17,6 @@ Before you start, you can review detailed information about how JAMStack and Hea
 
 ## What is Headless CMS 
 
-A headless Content Management System, or headless CMS, is a back-end-only content management system that acts primarily as a content repository. A headless CMS makes content accessible via an API for display on any device without a built-in, front-end or presentation layer. The term “headless” comes from the concept of chopping the “head” (the front end) off the “body” (the back end).
+A headless Content Management System, or headless CMS, is a back-end-only content management system that acts primarily as a content repository. A headless CMS makes content accessible via an API for display on any device without a built-in, front-end, or presentation layer. The term “headless” comes from the concept of chopping the “head” (the front end) off the “body” (the back end).
+
+Get more details about Headless CMS [here](https://contentrain.io/blog/).
