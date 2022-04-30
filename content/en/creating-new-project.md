@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650884959522
+updatedAt: 1651306715106
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -12,11 +12,11 @@ position: "3"
 
 ## Start a new project
 
-Go to your **Contentrain** dashboard, and click on **Start a new project**. 
+Go to your [Contentrain project page](https://app.contentrain.io/welcome), and click on **Start a new project**. 
 
 ![Dashboard](/images/dashboard.png)
 
-And set up your first project. 
+And start creating your first project.
 
 ![Dashboard](/images/create-project.png)
 
@@ -48,6 +48,8 @@ You can set a logo for each project. You can upload **JPG**, **PNG**, or **GIF**
 
 #### GitHub Provider 
 
+![GitHub](/images/github-modal.png)
+
 Using GitHub's provider, you should have to set up some permission for your account. 
 
 **Permissions:**
@@ -64,7 +66,14 @@ Using GitHub's provider, you should have to set up some permission for your acco
 
 You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **NuxtJs**. 
 
-Or you can select a manual project.
+<alert type="info">
+
+When you select any starter, you can only proceed with the selected starter repository.
+
+</alert>
+
+
+![Starter Input](/images/starter-input.png)
 
 #### Using Next.js Starter
 
@@ -133,7 +142,7 @@ Here, you can create your user seats and choose the roles and permissions of you
 The `Admin` is the default role.
 
 ## Collections
-In Collections, you can create your own collections, load your previously saved collections or buy/sell a new collection from **Contentrain Collection Marketplace.**
+In Collections, you can create your own collections, and import your previously saved collections.
 
 <alert type="warning">
 
@@ -156,13 +165,38 @@ To create a new collection, Click to **Create a new collection** button.
 
 See details about i18(Localization) [here. ](/i18n)
 
+#### Markdown Templates 
+ 
+You can also convert your collection to markdown or MDX syntax instead of JSON. When you select **Set this collection Markdown Frontmatter Template**, and by setting the markdown path, you can use this collection whit the markdown editor. 
+
+![markdown-format](/images/markdown-format.png)
+
+For using MDX syntax on your markdown files, you can check the **Use MDX format this template.**
+
 ### Fields
 
 In the **Fields modal**, you can add a new field to your collection.
 
 ![fields](/images/fields.png)
 
+<alert type="info">
+
+Don't forget to save each new fields you create.
+
+</alert>
+
+![Save Fields](/images/save-fields.png)
+
+
+
 #### Field Types
+
+Contentrain, will auto-generate new components for each field type on your database on Git.
+
+**Example:**
+
+When you select **date** as the field type, your component will adapt according to the date format.
+
 
 | Type     | Description | Required |
 | -------- | ----------- | -------- |
@@ -171,6 +205,28 @@ In the **Fields modal**, you can add a new field to your collection.
 | Boolean  | Return `true` of `false`            | optional |
 | Number   | Return numbers like 37 or -9.25.             | optional |
 | Relation | Connect your other content as an object.            | optional |
+
+
+#### Relation Field Type
+
+You can use **Relation** field type to connect your other content as an object.  
+
+**Example:**
+
+If you want to add multiple select relational contents as blog post tags or categories to your collection: 
+
+Create a new **Tag** collection as an `array` type. 
+
+![Tag Array](/images/tag-array.png)
+
+Create a new **PostTags** field as a `relation` type on the same collection and choose your relation content ID's on modal.
+
+![Tags Modal](/images/tags-modal.png)
+
+And now, you can select your tags.
+
+![Select Tags](/images/select-tags.png)
+
 
 #### Field Components
 
