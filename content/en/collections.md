@@ -6,6 +6,7 @@ slug: "collections"
 category: "Setup"
 position: 5
 createdAt: 1650883994272
+updatedAt: 1651312014610
 
 ---
 ---
@@ -45,13 +46,15 @@ Collection names must be slugify.
 </alert>
 
 
-- You can choose a permissions for this collection.
-- You can add unlimited languages variables for i18n.
+- You can choose permissions for this collection.
+- You can add unlimited language variables for i18n.
 
 ![New Collections](/images/new-collection.png)
 
 ## Edit collection fields
 
-To edit a collection fields, go to **Collections** and click to collection detail button.
+To edit collection fields, go to **Collections** and click to collection detail button.
 
 ![Edit Collections](/images/edit-collection.png)
+
+Get more details about **Field Components and Types** [here](/creating-new-project#collections).
