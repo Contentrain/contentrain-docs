@@ -1,5 +1,5 @@
 ---
-updatedAt: 1651306734108
+updatedAt: 1651307646631
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -131,9 +131,9 @@ And you can configure your branch settings. You can choose your master/main bran
 
 ![Branch](/images/branch-settings.png)
 
-Click to **Submit** and begin to set up **Roles and Permissions**
+Click to **Submit** and begin to set up **Roles**
 
-## Roles and Permissions
+## Roles
 
 Here, you can create your user seats and choose the roles and permissions of your project.
 
