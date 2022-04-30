@@ -133,14 +133,14 @@
   },
   {
     "title": "i18n (Localization) ",
-    "content": "i18n (Localization) is where you add any language to each of your collections.\n\n![localization](/images/i18n.png)\n\nTo add a new language click to **Select a language** on the collection.\n\nFor example, if you add **English** and **Deutch** languages, **Contentrain** will create the **/en** and **/de** folder paths in your JSON database structure.",
+    "content": "i18n (Localization) is where you add any language to each of your collections.\n\n![localization](/images/i18n.png)\n\nTo add a new language click **Select a language** on the collection and click **Save Changes**.\n\nFor example, if you add **English** and **Deutch** languages, **Contentrain** will create the **/en** and **/de** folder paths in your JSON database structure.\n\n<alert type=\"info\">\n\nIn addition, when a language is added to a language that has not been added before, you need to choose the default language.\n\n<alert>",
     "slug": "i18n",
     "description": "",
     "ID": "52069231-4928-4e26-b0dc-1fed8d3607e1",
     "category": "Setup",
     "position": 8,
     "createdAt": 1650873901205,
-    "updatedAt": 1650873927383
+    "updatedAt": 1651308174704
   },
   {
     "title": "Collections",
