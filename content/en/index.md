@@ -18,11 +18,11 @@ features:
 
 ![Contentrain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/593e9d1c-e4a5-46fb-e10e-6093dc91a200/public)
 
-**Contentrain** is free Git-based Headless CMS that was created for the developer and content editor experience first. 
+**Contentrain** is Git-based Headless CMS that was created for the developer and content editor experience first. 
 
-We created **Contentrain** for agencies, startups, freelancers or corporates to minimize their development time. 
+We created **Contentrain** for agencies, startups, freelancers, or corporates to faster their development and content management time. 
 
-Marketing teams, bloggers, and content creators will use our user-friendly CMS with love.
+<!---Marketing teams, bloggers, and content creators will use our user-friendly CMS with love. -->
 
 Watch our quick intro video (2 mins) 👇 
 
