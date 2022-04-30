@@ -16,7 +16,7 @@ features:
   - And more.
 ---
 
-![Contentrain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/593e9d1c-e4a5-46fb-e10e-6093dc91a200/public)
+![Contentrain](https://res.cloudinary.com/dowlbhxa2/image/upload/v1650603456/og_dark_n3qvck.jpg)
 
 **Contentrain** is Git-based Headless CMS that was created for the developer and content editor experience first. 
 
