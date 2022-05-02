@@ -1,5 +1,5 @@
 ---
-updatedAt: 1651307646631
+updatedAt: 1651499530134
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -227,20 +227,27 @@ And now, you can select your tags.
 
 ![Select Tags](/images/select-tags.png)
 
+It allows you to get time information in hour and minute (HH-MM /AM-PM) format from the user. It returns a string value.
 
 #### Field Components
 
 | Type             | Description | Required |
 | ---------------- | ----------- | -------- |
-| Color            | Provide a user interface element that lets a user specify a color.            | optional |
-| Date             | Represent a single moment in time in a platform-independent format. See date format and time zone conversions [here.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_format_and_time_zone_conversions)            | optional |
-| Duration         |             | optional |
+| Color            | Provide a user interface element that lets a user specify a color as RGB / HSL / HEX formats. Returns `string`.            | optional |
+| Checkbox            | Provide a user interface element that lets a user choose a checkbox. Returns `boolean`.             | optional |
+| Count            | Data in digit format that can be updated with **+/- 1** Returns `number`.            | optional |
+| Date             | Represent a single moment in time in a platform-independent format, like  **(2022-04-28 12:00) (YYYY-MM-DD HH-MM).** Returns `string`.   See date format and time zone conversions [here.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_format_and_time_zone_conversions)             | optional |
+| Duration         | It allows you to get time information in **hour and minute** (HH-MM /AM-PM) format from the user. Returns `string`.           | optional |
+| Number         | Numerical format. Returns `number`.            | optional |
+| Percent         | Numerical format as a percentage. Returns `number`.            | optional |
 | Email            | Email input fields.             | optional |
-| Long Text        | Max **160** characters long texts.            | optional |
+| Long Text        | Multi-line input field. Returns `string`.           | optional |
 | Media            | Using for **image** or **video** assets.           | optional |
-| Phone Number     | Phone number input fields.            | optional |
+| Phone Number     | Phone number input fields. Returns `string`.           | optional |
+| Rating     | It allows you to receive data from the user with a selection in the range of 1-5. Returns `number`.           | optional |
 | Rich Text Editor | For **WYSIWYG** rich text editor. Also support **Markdown** syntax.            | optional |
-| Single Line Text | Max **50** characters single line texts.            | optional |
-| URL              | Linkable URL input fields.            | optional |
+| Single Line Text | Single-line input field.  Returns `string`.               | optional |
+| Switch | Checkbox as a toggle.  Returns `boolean`.               | optional |
+| URL              | URL input fields.  Returns `boolean`.          | optional |
 
 Add your fields and click on **Done**
