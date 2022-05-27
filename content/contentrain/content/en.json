@@ -1,13 +1,13 @@
 [
   {
-    "updatedAt": 1651310718707,
+    "updatedAt": 1653636298513,
     "createdAt": 1650379940512,
     "slug": "users",
     "description": "",
     "title": "Users",
     "content": "To add a new team member to your project, go to **Users** and click to **Add** button.\n\n![Add a new user](/images/add-user.png)\n\nWhen adding a new user, the confirmation link will be sent, which is a one-time token,  and the user should be accepted during the first login.\n\nYou can list your invited user's status like the invitation expiration date. \n\nAnd you can also update the permissions of each user, or delete them.  \n\n![User Listing](/images/user-list.png)",
     "ID": "10ae52dc-f81a-4b5d-8565-a21ac248f9d3",
-    "category": "Setup",
+    "category": "Project Guides",
     "position": 7
   },
   {
