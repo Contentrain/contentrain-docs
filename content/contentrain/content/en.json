@@ -33,12 +33,12 @@
     "position": 14
   },
   {
-    "updatedAt": 1653636337975,
+    "updatedAt": 1653636400009,
     "createdAt": 1650381644799,
     "slug": "roles",
     "description": "",
     "title": "Roles",
-    "content": "\nRoles are where you define permissions and roles for different user groups.\n\nTo create a new role, go to **Roles** and click to **create a new permissions**\n\n- **Role Name:** Your custom role name \n\n<alert type=\"info\">\n\n**Example**: Content Editor\n\n</alert>\n\n\n\n\n- **Role Description:** Role's description.\n\n![Creating new support ticket](/images/new-roles.png)",
+    "content": "\nRoles are where you define permissions and roles for different user groups.\n\nTo create a new role, go to **Roles** and click on **create new permission**\n\n- **Role Name:** Your custom role name \n\n<alert type=\"info\">\n\n**Example**: Content Editor\n\n</alert>\n\n\n\n- **Role Description:** Role's description.\n\n![Creating new support ticket](/images/new-roles.png)",
     "ID": "5c9b705c-71d9-49bd-af9b-1a59c261abf0",
     "category": "Project Guides",
     "position": 6
