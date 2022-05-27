@@ -1,5 +1,5 @@
 ---
-updatedAt: 1653634258614
+updatedAt: 1653634786664
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -58,8 +58,61 @@ Using GitHub's provider, you should have to set up some permission for your acco
 - **Read** and **write** access to administration and code
 
 
+
 ![github-permissions](/images/github-permissions.png)
 
+
+### Continuing with starters
+
+You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **NuxtJs**. 
+
+<alert type="info">
+
+When you select any starter, you can only proceed with the selected starter repository.
+
+</alert>
+
+
+![Starter Input](/images/starter-input.png)
+
+#### Using Next.js Starter
+
+[Next.js](https://nextjs.org/) is a minimalistic framework for server-rendered React applications as well as statically exported React apps.
+
+**Source:** [Contentrain + Next.js Blog Starter](https://github.com/Contentrain/nextjs-blog-starter)
+
+
+#### Using Gatsby Starter
+
+[Gatsby](https://www.gatsbyjs.com/) is a fast and flexible framework that makes building websites with any CMS, API, or database fun again.
+
+
+**Source:** [Contentrain + Gatsby Blog Starter ](https://github.com/Contentrain/gatsby-blog-starter)
+
+#### Using Nuxtjs Starter
+
+[Nuxtjs](https://nextjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
+
+**Source:** [Contentrain + Nuxtjs Blog Starter](https://github.com/Contentrain/nuxt-blog-starter)
+
+
+#### Using Eleventy (11ty) Starter
+
+<alert type="warning">
+
+Eleventy (11ty) starters will be available coming soon.
+
+</alert>
+
+---
+
+#### Do you want more starters?
+
+<alert type="info">
+
+If you want additional starter JAMStack frameworks, you can let us know on [Twitter.](https://twitter.com/intent/tweet?text=Hey%20@Contentrain_io%20%F0%9F%91%8B) 
+
+</alert>
 
 ## Setup your project
 
@@ -119,82 +172,3 @@ You can also convert your collection to markdown or MDX syntax instead of JSON. 
 ![markdown-format](/images/markdown-format.png)
 
 For using MDX syntax on your markdown files, you can check the **Use MDX format this template.**
-
-### Fields
-
-In the **Fields modal**, you can add a new field to your collection.
-
-![fields](/images/fields.png)
-
-<alert type="info">
-
-Don't forget to save each new fields you create.
-
-</alert>
-
-![Save Fields](/images/save-fields.png)
-
-
-
-#### Field Types
-
-Contentrain will auto-generate new components for each field type on your database on Git.
-
-**Example:**
-
-When you select **date** as the field type, your component will adapt according to the date format.
-
-
-| Type     | Description | Required |
-| -------- | ----------- | -------- |
-| String   | For any text-based types.             | optional |
-| Array    | Nested array object types.            | optional |
-| Boolean  | Return `true` of `false`            | optional |
-| Number   | Return numbers like 37 or -9.25.             | optional |
-| Relation | Connect your other content as an object.            | optional |
-
-
-#### Relation Field Type
-
-You can use **Relation** field type to connect your other content as an object.  
-
-**Example:**
-
-If you want to add multiple select relational contents as blog post tags or categories to your collection: 
-
-Create a new **Tag** collection as an `array` type. 
-
-![Tag Array](/images/tag-array.png)
-
-Create a new **PostTags** field as a `relation` type on the same collection and choose your relation content ID's on modal.
-
-![Tags Modal](/images/tags-modal.png)
-
-And now, you can select your tags.
-
-![Select Tags](/images/select-tags.png)
-
-It allows you to get time information in hour and minute (HH-MM /AM-PM) format from the user. It returns a string value.
-
-#### Field Components
-
-| Type             | Description | Required |
-| ---------------- | ----------- | -------- |
-| Color            | Provide a user interface element that lets a user specify a color as RGB / HSL / HEX formats. Returns `string`.            | optional |
-| Checkbox            | Provide a user interface element that lets a user choose a checkbox. Returns `boolean`.             | optional |
-| Count            | Data in digit format that can be updated with **+/- 1** Returns `number`.            | optional |
-| Date             | Represent a single moment in time in a platform-independent format, like  **(2022-04-28 12:00) (YYYY-MM-DD HH-MM).** Returns `string`.   See date format and time zone conversions [here.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_format_and_time_zone_conversions)             | optional |
-| Duration         | It allows you to get time information in **hour and minute** (HH-MM /AM-PM) format from the user. Returns `string`.           | optional |
-| Number         | Numerical format. Returns `number`.            | optional |
-| Percent         | Numerical format as a percentage. Returns `number`.            | optional |
-| Email            | Email input fields.             | optional |
-| Long Text        | Multi-line input field. Returns `string`.           | optional |
-| Media            | Using for **image** or **video** assets.           | optional |
-| Phone Number     | Phone number input fields. Returns `string`.           | optional |
-| Rating     | It allows you to receive data from the user with a selection in the range of 1-5. Returns `number`.           | optional |
-| Rich Text Editor | For **WYSIWYG** rich text editor. Also support **Markdown** syntax.            | optional |
-| Single Line Text | Single-line input field.  Returns `string`.               | optional |
-| Switch | Checkbox as a toggle.  Returns `boolean`.               | optional |
-| URL              | URL input fields.  Returns `boolean`.          | optional |
-
-Add your fields and click on **Done**
