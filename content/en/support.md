@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650875445895
+updatedAt: 1653636142304
 createdAt: 1650380125747
 slug: "support"
 description: ""
@@ -25,3 +25,10 @@ To create a new ticket, go to your project. Click **Support** on the sidebar and
 
 
 When the ticket is created, you can see the current status of each of your tickets.
+
+<alert type="info">
+
+Get more details on our support page. [here](https://contentrain.io/support).
+
+</alert>
+
