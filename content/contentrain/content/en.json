@@ -148,10 +148,10 @@
     "description": "",
     "ID": "dc339d63-15ce-4a95-9cef-22790e28090d",
     "slug": "collections",
-    "category": "Setup",
+    "category": "Project Guides",
     "position": 5,
     "createdAt": 1650883994272,
-    "updatedAt": 1651312014610
+    "updatedAt": 1653636261735
   },
   {
     "content": "You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **NuxtJs**. \n\n<alert type=\"info\">\n\nWhen you select any starter, you can only proceed with the selected starter repository.\n\n</alert>\n\n\n![Starter Input](/images/starter-input.png)\n\n#### Using Next.js Starter\n\n[Next.js](https://nextjs.org/) is a minimalistic framework for server-rendered React applications as well as statically exported React apps.\n\n**Source:** [Contentrain + Next.js Blog Starter](https://github.com/Contentrain/nextjs-blog-starter)\n\n\n#### Using Gatsby Starter\n\n[Gatsby](https://www.gatsbyjs.com/) is a fast and flexible framework that makes building websites with any CMS, API, or database fun again.\n\n\n**Source:** [Contentrain + Gatsby Blog Starter ](https://github.com/Contentrain/gatsby-blog-starter)\n\n#### Using Nuxtjs Starter\n\n[Nuxtjs](https://nextjs.org/) is an easy way to export your Vue.js Web Application into a static website. \n\n**Source:** [Contentrain + Nuxtjs Blog Starter](https://github.com/Contentrain/nuxt-blog-starter)\n\n\n#### Using Eleventy (11ty) Starter\n\n<alert type=\"warning\">\n\nEleventy (11ty) starters will be available coming soon.\n\n</alert>\n\n---\n\n#### Do you want more starters?\n\n<alert type=\"info\">\n\nIf you want additional starter JAMStack frameworks, you can let us know on [Twitter.](https://twitter.com/intent/tweet?text=Hey%20@Contentrain_io%20%F0%9F%91%8B) \n\n</alert>",
