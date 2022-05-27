@@ -1,5 +1,5 @@
 ---
-updatedAt: 1653634796122
+updatedAt: 1653634955310
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -9,6 +9,8 @@ category: "Getting Started"
 position: "3"
 
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdpRGzn1GMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Start a new project
 
