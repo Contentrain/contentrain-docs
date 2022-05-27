@@ -3,10 +3,10 @@ title: "Collections"
 description: ""
 ID: "dc339d63-15ce-4a95-9cef-22790e28090d"
 slug: "collections"
-category: "Setup"
+category: "Project Guides"
 position: 5
 createdAt: 1650883994272
-updatedAt: 1651312014610
+updatedAt: 1653636261735
 
 ---
 ---
