@@ -1,5 +1,5 @@
 ---
-updatedAt: 1651308258517
+updatedAt: 1653634743793
 createdAt: 1650382004866
 slug: "project-options"
 description: ""
@@ -21,10 +21,4 @@ If you don't want to use your project, you can simply archive it and you can use
 
 ## Delete Project
 
-If you no longer use your project and do not want it to appear in your subscription, you can delete it. 
-
-<alert type="warning">
-
-This progress cannot be undone.
-
-</alert>
+If you no longer use your project and do not want it to appear in your subscription, you can delete it. Note that This progress cannot be undone.
