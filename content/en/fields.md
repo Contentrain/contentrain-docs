@@ -6,10 +6,9 @@ description: ""
 category: "Setup"
 position: 6
 createdAt: 1653634835719
+updatedAt: 1653635161395
 
 ---
-# Fields
-
 In the **Fields modal**, you can add a new field to your collection.
 
 ![fields](/images/fields.png)
@@ -26,7 +25,7 @@ Don't forget to save each new fields you create.
 
 #### Field Types
 
-Contentrain, will auto-generate new components for each field type on your database on Git.
+Contentrain will auto-generate new components for each field type on your database on Git.
 
 **Example:**
 
