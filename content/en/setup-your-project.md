@@ -3,13 +3,13 @@ slug: "setup-your-project"
 ID: "e5eaeaa2-bd4a-4190-9118-79f31451c736"
 title: "Setup your project"
 description: ""
-category: "Getting Started"
-position: 5
+category: "Project Guides"
+position: 6
 createdAt: 1653634706626
+updatedAt: 1653636244802
 
 ---
 
-# Setup your project
 
 When you click **Create**, you will be able to connect with your Git repository and Contentrain. 
 
