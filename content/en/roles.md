@@ -1,18 +1,18 @@
 ---
-updatedAt: 1650747753208
+updatedAt: 1653637415150
 createdAt: 1650381644799
 slug: "roles"
 description: ""
 title: "Roles"
 ID: "5c9b705c-71d9-49bd-af9b-1a59c261abf0"
-category: "Setup"
+category: "Project Guides"
 position: 6
 
 ---
 
 Roles are where you define permissions and roles for different user groups.
 
-To create a new role, go to **Roles** and click to **create a new permissions**
+To create a new role, go to **Roles** and click on **create new permission**
 
 - **Role Name:** Your custom role name 
 
@@ -21,7 +21,6 @@ To create a new role, go to **Roles** and click to **create a new permissions**
 **Example**: Content Editor
 
 </alert>
-
 
 
 
