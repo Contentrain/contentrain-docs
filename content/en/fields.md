@@ -3,10 +3,10 @@ slug: "fields"
 ID: "9c979f2b-9a54-4609-b12b-43454ee3ed1b"
 title: "Fields"
 description: ""
-category: "Setup"
+category: "Project Guides"
 position: 6
 createdAt: 1653634835719
-updatedAt: 1653635161395
+updatedAt: 1653636317134
 
 ---
 In the **Fields modal**, you can add a new field to your collection.
