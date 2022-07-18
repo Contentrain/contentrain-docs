@@ -6,7 +6,7 @@ ID: "7f0d4b7e-626b-4579-95bb-bfc40646c480"
 category: "Getting Started"
 position: 4
 createdAt: 1653634237816
-updatedAt: 1653634994758
+updatedAt: 1658141859038
 
 ---
 You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **NuxtJs**. 
@@ -36,7 +36,7 @@ When you select any starter, you can only proceed with the selected starter repo
 
 #### Using Nuxtjs Starter
 
-[Nuxtjs](https://nextjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
+[Nuxtjs](https://nuxtjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
 
 **Source:** [Contentrain + Nuxtjs Blog Starter](https://github.com/Contentrain/nuxt-blog-starter)
 
