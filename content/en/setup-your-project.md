@@ -6,10 +6,10 @@ description: ""
 category: "Project Guides"
 position: 6
 createdAt: 1653634706626
-updatedAt: 1653636244802
+updatedAt: 1660317322082
 
 ---
-
+<iframe style="aspect-ratio:16/9; width:100%;" src="https://www.youtube.com/embed/hdpRGzn1GMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When you click **Create**, you will be able to connect with your Git repository and Contentrain. 
 
