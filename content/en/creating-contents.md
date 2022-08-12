@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660317232451
+updatedAt: 1660317434097
 createdAt: 1650384263497
 slug: "creating-contents"
 description: ""
@@ -9,7 +9,7 @@ category: "Getting Started"
 position: 4
 
 ---
-<iframe style="aspect-ratio:16 / 9; width:100%" src="https://www.youtube.com/embed/dViZV5HhgR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="aspect-ratio:16 / 9; width:100%;" src="https://www.youtube.com/embed/dViZV5HhgR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 To create new content, go to your **Projects**, and click **Go to Project**
