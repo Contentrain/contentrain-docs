@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650878201968
+updatedAt: 1660313188617
 createdAt: 1650384046950
 slug: "getting-started"
 description: ""
@@ -15,3 +15,7 @@ position: "2"
 You can choose a register method default as Email, Google, and GitHub. 
 
 ![Register](/images/register.png)
+
+<alert type="info">
+If you have chosen the option to register by e-mail; You need to verify your account with the verification link sent to your e-mail account.
+</alert>
