@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660317104314
+updatedAt: 1660317377515
 createdAt: 1650379940512
 slug: "users"
 description: ""
@@ -9,7 +9,7 @@ category: "Project Guides"
 position: 7
 
 ---
-<iframe style="aspect-ratio:16/9; width:100%" src="https://www.youtube.com/embed/dJz94x4iUyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="aspect-ratio:16/9; width:100%;" src="https://www.youtube.com/embed/dJz94x4iUyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
