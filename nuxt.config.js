@@ -1,4 +1,5 @@
 import theme from "@nuxt/content-theme-docs";
+import { generateSitemap } from "@nuxtjs/sitemap/lib/generator";
 import pages from "./content/contentrain/content/en.json";
 
 const createSitemapRoutes = async () => {
@@ -17,7 +18,7 @@ export default theme({
   sitemap: {
     hostname: "https://docs.contentrain.io",
     gzip: true,
-    routes: createSitemapRoutes(),
+    // routes: generate
   },
   buildModules: [
     [
