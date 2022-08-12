@@ -6,55 +6,60 @@ ID: "7f0d4b7e-626b-4579-95bb-bfc40646c480"
 category: "Getting Started"
 position: 4
 createdAt: 1653634237816
-updatedAt: 1658141859038
+updatedAt: 1660315607095
 
 ---
-You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **NuxtJs**. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-WhfLXjQbQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+Starters are an efficient way to quickly use Contentrain in your favorite Jamstack SSG tool.
+Developed mostly from official template repositories and fully operational with Contentrain, these kits get you started on a project in minutes.
+All content models on the template are integrated.
+
+
+
 
 <alert type="info">
 
-When you select any starter, you can only proceed with the selected starter repository.
+A few more starters like **Jekyll** and **Gridsome** will be added very soon. You can reach us on [Discord](https://discord.gg/4db2PjWYtG) for all your starters' requests.
 
 </alert>
 
 
-![Starter Input](/images/starter-input.png)
-
-#### Using Next.js Starter
+### Using Next.js Starter
 
 [Next.js](https://nextjs.org/) is a minimalistic framework for server-rendered React applications as well as statically exported React apps.
 
 **Source:** [Contentrain + Next.js Blog Starter](https://github.com/Contentrain/nextjs-blog-starter)
 
 
-#### Using Gatsby Starter
+### Using Gatsby Starter
 
 [Gatsby](https://www.gatsbyjs.com/) is a fast and flexible framework that makes building websites with any CMS, API, or database fun again.
 
 
 **Source:** [Contentrain + Gatsby Blog Starter ](https://github.com/Contentrain/gatsby-blog-starter)
 
-#### Using Nuxtjs Starter
+### Using Nuxtjs Starter
 
-[Nuxtjs](https://nuxtjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
+[Nuxtjs](https://nextjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
 
 **Source:** [Contentrain + Nuxtjs Blog Starter](https://github.com/Contentrain/nuxt-blog-starter)
 
 
-#### Using Eleventy (11ty) Starter
+### Using Eleventy (11ty) Starter
 
-<alert type="warning">
+[Eleventy (11ty)](https://11ty.dev/) is a simpler static site generator. 
 
-Eleventy (11ty) starters will be available coming soon.
+**Source:** [Contentrain + 11ty Blog Starter](https://github.com/Contentrain/11ty-blog-starter)
 
-</alert>
+### Using Docusaurus Starter
 
----
+[Docusaurus ](https://docusaurus.io/) will help you ship a beautiful documentation site in no time. 
 
-#### Do you want more starters?
+**Source:** [Contentrain + Docusaurus Documantation Starter](https://github.com/Contentrain/docusaurus-docs-starter)
 
-<alert type="info">
+### Using Hugo Starter
 
-If you want additional starter JAMStack frameworks, you can let us know on [Twitter.](https://twitter.com/intent/tweet?text=Hey%20@Contentrain_io%20%F0%9F%91%8B) 
+[Hugo](https://docusaurus.io/) is one of the most popular open-source static site generators.  
 
-</alert>
+**Source:** [Contentrain + Hugo Blog Starter](https://github.com/Contentrain/hugo-blog-starterr)
