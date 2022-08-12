@@ -88,12 +88,12 @@
     "position": 13
   },
   {
-    "updatedAt": 1650878201968,
+    "updatedAt": 1660313188617,
     "createdAt": 1650384046950,
     "slug": "getting-started",
     "description": "",
     "title": "Creating new account",
-    "content": "- Go to [contentrain.io](https://contentrain.io/)\n- Click **Get Started** and register. \n\nYou can choose a register method default as Email, Google, and GitHub. \n\n![Register](/images/register.png)",
+    "content": "- Go to [contentrain.io](https://contentrain.io/)\n- Click **Get Started** and register. \n\nYou can choose a register method default as Email, Google, and GitHub. \n\n![Register](/images/register.png)\n\n<alert type=\"info\">\nIf you have chosen the option to register by e-mail; You need to verify your account with the verification link sent to your e-mail account.\n</alert>",
     "ID": "7a2d1cd1-9e23-49a0-bd4e-0d9e140512c8",
     "category": "Getting Started",
     "position": "2"
