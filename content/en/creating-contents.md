@@ -1,5 +1,5 @@
 ---
-updatedAt: 1650884259750
+updatedAt: 1660316438084
 createdAt: 1650384263497
 slug: "creating-contents"
 description: ""
@@ -9,8 +9,10 @@ category: "Getting Started"
 position: 4
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dViZV5HhgR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
 
-To create new content, go to your **Dashboard**, and click **Go to Project**
+To create new content, go to your **Projects**, and click **Go to Project**
 
 <!-- ![dashboard-project](/images/dashboard-project.png) -->
 
