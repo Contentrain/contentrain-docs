@@ -6,7 +6,7 @@ description: ""
 category: "Project Guides"
 position: 6
 createdAt: 1653634706626
-updatedAt: 1660317322082
+updatedAt: 1660318142429
 
 ---
 <iframe style="aspect-ratio:16/9; width:100%;" src="https://www.youtube.com/embed/hdpRGzn1GMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,11 +38,3 @@ The `Admin` is the default role.
 
 ## Collections
 In Collections, you can create your own collections, and import your previously saved collections.
-
-<alert type="warning">
-
-Contentrain Collection Marketplace will be available coming soon.
-
-</alert>
-
-![Collections](/images/collections.png)
