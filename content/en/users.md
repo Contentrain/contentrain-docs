@@ -1,5 +1,5 @@
 ---
-updatedAt: 1653636298513
+updatedAt: 1660316728107
 createdAt: 1650379940512
 slug: "users"
 description: ""
@@ -9,6 +9,10 @@ category: "Project Guides"
 position: 7
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJz94x4iUyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 To add a new team member to your project, go to **Users** and click to **Add** button.
 
 ![Add a new user](/images/add-user.png)
