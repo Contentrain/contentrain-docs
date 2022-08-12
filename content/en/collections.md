@@ -6,32 +6,28 @@ slug: "collections"
 category: "Project Guides"
 position: 5
 createdAt: 1650883994272
-updatedAt: 1653636261735
+updatedAt: 1660316251323
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/awIMyCrf83Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
-**Collections** are content components that you create in a JSON template.
+
+**Collections** are data models (schemas) that you need to create in order to manage their content. You can create collection templates in JSON and MD format in Contentrain.
 
 ![Collection](/images/collections-s.png)
 
 ## Custom Collections
 
-These are the collections you create for your own project using custom fields.
+These are the collection templates you create for your own project using custom fields.
 
 ## Saved Collections
 
-Collections you save as reusable in other projects.
+Collection templates you save as reusable in other projects.
 
-## Collection Marketplace
+## Shared Collections
 
-It is a marketplace where you can buy and sell the collections you have created in the Contentrain community.
-
-<alert type="warning">
-
-
-Coming Soon
-
-</alert>
+**Shared Collections** is a productive system where you can share any collection templates with the community and use them in your shared collection templates project.
 
 ## Creating a new collection
 
