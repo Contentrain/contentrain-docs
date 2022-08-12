@@ -6,10 +6,10 @@ ID: "7f0d4b7e-626b-4579-95bb-bfc40646c480"
 category: "Getting Started"
 position: 4
 createdAt: 1653634237816
-updatedAt: 1660317262237
+updatedAt: 1660317469253
 
 ---
-<iframe style="aspect-ratio:16 / 9; width:100%" src="https://www.youtube.com/embed/-WhfLXjQbQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="aspect-ratio:16 / 9; width:100%;" src="https://www.youtube.com/embed/-WhfLXjQbQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
