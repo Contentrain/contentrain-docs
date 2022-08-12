@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660317135924
+updatedAt: 1660317184835
 createdAt: 1650381644799
 slug: "roles"
 description: ""
