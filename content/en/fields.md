@@ -6,9 +6,13 @@ description: ""
 category: "Project Guides"
 position: 6
 createdAt: 1653634835719
-updatedAt: 1653636317134
+updatedAt: 1660316525756
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/awIMyCrf83Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 In the **Fields modal**, you can add a new field to your collection.
 
 ![fields](/images/fields.png)
@@ -23,7 +27,7 @@ Don't forget to save each new fields you create.
 
 
 
-#### Field Types
+### Field Types
 
 Contentrain will auto-generate new components for each field type on your database on Git.
 
@@ -41,7 +45,7 @@ When you select **date** as the field type, your component will adapt according 
 | Relation | Connect your other content as an object.            | optional |
 
 
-#### Relation Field Type
+### Relation Field Type
 
 You can use **Relation** field type to connect your other content as an object.  
 
@@ -63,7 +67,7 @@ And now, you can select your tags.
 
 It allows you to get time information in hour and minute (HH-MM /AM-PM) format from the user. It returns a string value.
 
-#### Field Components
+### Field Components
 
 | Type             | Description | Required |
 | ---------------- | ----------- | -------- |
