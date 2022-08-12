@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660316683515
+updatedAt: 1660317135924
 createdAt: 1650381644799
 slug: "roles"
 description: ""
@@ -9,7 +9,7 @@ category: "Project Guides"
 position: 6
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJz94x4iUyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="aspect-ratio:16 / 9; width:100%" src="https://www.youtube.com/embed/dJz94x4iUyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
