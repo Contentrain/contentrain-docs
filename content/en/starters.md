@@ -6,11 +6,13 @@ ID: "7f0d4b7e-626b-4579-95bb-bfc40646c480"
 category: "Getting Started"
 position: 4
 createdAt: 1653634237816
-updatedAt: 1660316310877
+updatedAt: 1660316612451
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-WhfLXjQbQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
+
 Starters are an efficient way to quickly use Contentrain in your favorite Jamstack SSG tool.
 Developed mostly from official template repositories and fully operational with Contentrain, these kits get you started on a project in minutes.
 All content models on the template are integrated.
