@@ -1,5 +1,5 @@
 ---
-updatedAt: 1653634955310
+updatedAt: 1660315028277
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -69,42 +69,14 @@ Using GitHub's provider, you should have to set up some permission for your acco
 You can select ready-to-use **JAMstack** starters like **Next.js**, **Gatsby**, and **NuxtJs**. 
 
 <alert type="info">
-
-When you select any starter, you can only proceed with the selected starter repository.
-
+When you select any starter, Contentrain creates a repository for you from your starter project in your Github account.
+You can only proceed with the selected starter repository. Don't forget to grant permissions to this repo via Contentrain Github APP.
 </alert>
 
 
 ![Starter Input](/images/starter-input.png)
 
-#### Using Next.js Starter
-
-[Next.js](https://nextjs.org/) is a minimalistic framework for server-rendered React applications as well as statically exported React apps.
-
-**Source:** [Contentrain + Next.js Blog Starter](https://github.com/Contentrain/nextjs-blog-starter)
-
-
-#### Using Gatsby Starter
-
-[Gatsby](https://www.gatsbyjs.com/) is a fast and flexible framework that makes building websites with any CMS, API, or database fun again.
-
-
-**Source:** [Contentrain + Gatsby Blog Starter ](https://github.com/Contentrain/gatsby-blog-starter)
-
-#### Using Nuxtjs Starter
-
-[Nuxtjs](https://nextjs.org/) is an easy way to export your Vue.js Web Application into a static website. 
-
-**Source:** [Contentrain + Nuxtjs Blog Starter](https://github.com/Contentrain/nuxt-blog-starter)
-
-
-#### Using Eleventy (11ty) Starter
-
-<alert type="warning">
-
-Eleventy (11ty) starters will be available coming soon.
-
-</alert>
+You can see all our starters and get more information [here.](https://contentrain-doc.web.app/starters)
 
 ---
 
@@ -112,7 +84,7 @@ Eleventy (11ty) starters will be available coming soon.
 
 <alert type="info">
 
-If you want additional starter JAMStack frameworks, you can let us know on [Twitter.](https://twitter.com/intent/tweet?text=Hey%20@Contentrain_io%20%F0%9F%91%8B) 
+If you want additional starter JAMStack frameworks, you can let us know on [Discord.](https://discord.com/invite/4db2PjWYtG) 
 
 </alert>
 
@@ -143,14 +115,9 @@ Here, you can create your user seats and choose the roles and permissions of you
 
 The `Admin` is the default role.
 
-## Collections
-In Collections, you can create your own collections, and import your previously saved collections.
+## Collections (Collection Models)
+In Collections, you can create your own collection models, import your previously saved collection models or use shared collection models.
 
-<alert type="warning">
-
-Contentrain Collection Marketplace will be available coming soon.
-
-</alert>
 
 ![Collections](/images/collections.png)
 
