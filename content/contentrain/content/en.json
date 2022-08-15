@@ -33,12 +33,12 @@
     "position": 14
   },
   {
-    "updatedAt": 1660317389524,
+    "updatedAt": 1660567047650,
     "createdAt": 1650381644799,
     "slug": "roles",
     "description": "",
     "title": "Roles",
-    "content": "<iframe style=\"aspect-ratio:16 / 9; width:100%;\" src=\"https://www.youtube.com/embed/dJz94x4iUyI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n---\n\nRoles are where you define permissions and roles for different user groups.\n\nTo create a new role, go to **Roles** and click on **create new permission**\n\n- **Role Name:** Your custom role name \n\n<alert type=\"info\">\n\n**Example**: Content Editor\n\n</alert>\n\n\n\n- **Role Description:** Role's description.\n\n![Creating new support ticket](/images/new-roles.png)",
+    "content": "<iframe style=\"aspect-ratio:16 / 9; width:100%;\" src=\"https://www.youtube.com/embed/dJz94x4iUyI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n---\n\nYou can create suitable roles for all your teammates that you will invite to your project. \n\n[Here](https://docs.contentrain.io/creating-new-project)'s how to edit permissions for these roles on your collections. \n\nTo create a new role, go to **Roles** and click on **create new permission**\n\n- **Role Name:** Your custom role name \n\n<alert type=\"info\">\n\n**Example**: Content Editor\n\n</alert>\n\n\n\n- **Role Description:** Role's description.\n\n![Creating new support ticket](/images/new-roles.png)",
     "ID": "5c9b705c-71d9-49bd-af9b-1a59c261abf0",
     "category": "Project Guides",
     "position": 6
