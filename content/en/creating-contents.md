@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660317434097
+updatedAt: 1660566245314
 createdAt: 1650384263497
 slug: "creating-contents"
 description: ""
@@ -10,6 +10,7 @@ position: 4
 
 ---
 <iframe style="aspect-ratio:16 / 9; width:100%;" src="https://www.youtube.com/embed/dViZV5HhgR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 To create new content, go to your **Projects**, and click **Go to Project**
