@@ -4,5 +4,11 @@
     "title": "test",
     "image": "static/images/1660574140961_create-collection.png",
     "createdAt": 1660574142374
+  },
+  {
+    "ID": "6b1b774c-6c32-48be-8152-bba0bcb1256a",
+    "title": "Permissions detail",
+    "image": "static/images/1660574669410_permissions.png",
+    "createdAt": 1660574671345
   }
 ]
