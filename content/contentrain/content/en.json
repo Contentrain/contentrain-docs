@@ -110,12 +110,12 @@
     "position": "3"
   },
   {
-    "updatedAt": 1660317434097,
+    "updatedAt": 1660566245314,
     "createdAt": 1650384263497,
     "slug": "creating-contents",
     "description": "",
     "title": "Creating contents",
-    "content": "<iframe style=\"aspect-ratio:16 / 9; width:100%;\" src=\"https://www.youtube.com/embed/dViZV5HhgR0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n---\n\nTo create new content, go to your **Projects**, and click **Go to Project**\n\n<!-- ![dashboard-project](/images/dashboard-project.png) -->\n\nChoose your **Content** on sidebar.\n\n![content-dashboard](/images/content-dashboard.png)\n\nAnd click **Add Content** on the top right.\n\nIf the contents were added successfully, your contents will be visible on the content table.\n\n![content-table](/images/content-table.png)\n\n### Search contents\n\nYou can search the contents for `Title`\n\n![search-content](/images/search-content.png)\n\n### Filter the content table\n\nClick to **Filter** icon on the top right, to filter the content table columns.\n\n![content-table](/images/filter-table.png)\n\n### Delete content\n\nTo delete content, click to **More** icon on content cards.\n\n![delete-table](/images/delete-content.png)",
+    "content": "<iframe style=\"aspect-ratio:16 / 9; width:100%;\" src=\"https://www.youtube.com/embed/dViZV5HhgR0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n---\n\nTo create new content, go to your **Projects**, and click **Go to Project**\n\n<!-- ![dashboard-project](/images/dashboard-project.png) -->\n\nChoose your **Content** on sidebar.\n\n![content-dashboard](/images/content-dashboard.png)\n\nAnd click **Add Content** on the top right.\n\nIf the contents were added successfully, your contents will be visible on the content table.\n\n![content-table](/images/content-table.png)\n\n### Search contents\n\nYou can search the contents for `Title`\n\n![search-content](/images/search-content.png)\n\n### Filter the content table\n\nClick to **Filter** icon on the top right, to filter the content table columns.\n\n![content-table](/images/filter-table.png)\n\n### Delete content\n\nTo delete content, click to **More** icon on content cards.\n\n![delete-table](/images/delete-content.png)",
     "ID": "50a5b240-46ce-4893-8341-981a7cfdf325",
     "category": "Getting Started",
     "position": 4
