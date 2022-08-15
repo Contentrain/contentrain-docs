@@ -6,7 +6,7 @@ description: ""
 category: "Project Guides"
 position: 6
 createdAt: 1653634706626
-updatedAt: 1660318142429
+updatedAt: 1660567167755
 
 ---
 <iframe style="aspect-ratio:16/9; width:100%;" src="https://www.youtube.com/embed/hdpRGzn1GMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ Click to **Submit** and begin to set up **Roles**
 
 ## Roles
 
-Here, you can create your user seats and choose the roles and permissions of your project.
+Here, you can create roles of your project.
 
 ![Roles](/images/roles.png)
 
