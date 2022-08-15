@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660311765968
+updatedAt: 1660566089643
 createdAt: 1650381959103
 slug: "headless-cms"
 description: ""
@@ -13,6 +13,7 @@ Before you start, you can review detailed information about how JAMStack and Hea
 
 - [JAMStack.org]( https://jamstack.org/)
 - [Headless CMS List](https://jamstack.org/headless-cms/)
+- [Static Site Generators](https://jamstack.org/generators/)
 
 
 ## What is Headless CMS 
