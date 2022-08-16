@@ -6,7 +6,7 @@ description: ""
 category: "Project Guides"
 position: 6
 createdAt: 1653634706626
-updatedAt: 1660625964021
+updatedAt: 1660626014380
 
 ---
 <iframe style="aspect-ratio:16/9; width:100%;" src="https://www.youtube.com/embed/hdpRGzn1GMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
