@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660625256742
+updatedAt: 1660626362582
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -74,7 +74,7 @@ You can only proceed with the selected starter repository. Don't forget to grant
 </alert>
 
 
-![Starter Input](/images/starter-input.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/6c2b96f7-30b2-4993-2c86-58af696ed900/public)
 
 You can see all our starters and get more information [here.](https://contentrain-doc.web.app/starters)
 
