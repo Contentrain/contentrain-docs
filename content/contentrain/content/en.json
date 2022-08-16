@@ -133,14 +133,14 @@
   },
   {
     "title": "i18n (Localization) ",
-    "content": "<iframe style=\"aspect-ratio:16 / 9; width:100%;\" src=\"https://www.youtube.com/embed/2RXsuA-V6bM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n---\n\ni18n (Localization) is where you add any language to each of your collections.\n\n![localization](/images/i18n.png)\n\nTo add a new language click **Select a language** on the collection and click **Save Changes**.\n\nFor example, if you add **English** and **Deutch** languages, **Contentrain** will create the **/en** and **/de** folder paths in your JSON database structure.\n\n<alert type=\"info\">\n\nIn addition, when a language is added to a language that has not been added before, you need to choose the default language.\n\n<alert>\n\n---",
+    "content": "<iframe style=\"aspect-ratio:16 / 9; width:100%;\" src=\"https://www.youtube.com/embed/2RXsuA-V6bM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n---\n\ni18n (Localization) is where you add any language to each of your collections.\n\n![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/a7a6fe3c-32a9-4a03-a153-880ddddb6900/public)\n\nTo add a new language click **Select a language** on the collection and click **Save Changes**.\n\nFor example, if you add **English** and **Deutch** languages, **Contentrain** will create the **/en** and **/de** folder paths in your JSON database structure.\n\n<alert type=\"info\">\n\nIn addition, when a language is added to a language that has not been added before, you need to choose the default language.\n\n<alert>\n\n---",
     "slug": "i18n",
     "description": "",
     "ID": "52069231-4928-4e26-b0dc-1fed8d3607e1",
     "category": "Project Guides",
     "position": 8,
     "createdAt": 1650873901205,
-    "updatedAt": 1660567361363
+    "updatedAt": 1660626033737
   },
   {
     "title": "Collections",
