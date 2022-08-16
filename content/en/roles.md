@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660574789678
+updatedAt: 1660625612947
 createdAt: 1650381644799
 slug: "roles"
 description: ""
@@ -33,7 +33,7 @@ To create a new role, go to **Roles** and click on **create new permission**
 
 - **Role Description:** Role's description.
 
-![Creating new support ticket](/images/new-roles.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/eb27788b-b6c1-4de1-5a57-b462989d5800/public)
 
 ## Permissions
 
