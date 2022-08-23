@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660317414081
+updatedAt: 1660626443969
 createdAt: 1650384153541
 slug: "creating-new-project"
 description: ""
@@ -16,11 +16,11 @@ position: "3"
 
 Go to your [Contentrain project page](https://app.contentrain.io/welcome), and click on **Start a new project**. 
 
-![Dashboard](/images/dashboard.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/9010c4f7-8063-4239-84e6-477b008edb00/public)
 
 And start creating your first project.
 
-![Dashboard](/images/create-project.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/ce662f05-7bf5-4067-0050-d6579e800500/public)
 
 - **Name**: Project name should be **unique*** and **slugify** like that: `my-awesome-project`
 - **Project Details**: Write your project description.
@@ -74,7 +74,7 @@ You can only proceed with the selected starter repository. Don't forget to grant
 </alert>
 
 
-![Starter Input](/images/starter-input.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/6c2b96f7-30b2-4993-2c86-58af696ed900/public)
 
 You can see all our starters and get more information [here.](https://contentrain-doc.web.app/starters)
 
@@ -96,14 +96,14 @@ When you click **Create**, you will be able to connect with your Git repository 
 
 So, you can choose any repository you want and click on **Next**
 
-![Dashboard](/images/setup.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/13b1e2c6-977e-4f41-b9a0-c5f071acdb00/public)
 
 And you can configure your branch settings. You can choose your master/main branch or stage branch.
 
 - **Path**: The main directory where the Contentrain JSON database is created.
 - **Static path**: Your media assets directory like `/static`
 
-![Branch](/images/branch-settings.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/ecd529a8-a28d-428d-1a40-2a521e2d5600/public)
 
 Click to **Submit** and begin to set up **Roles**
 
@@ -111,7 +111,7 @@ Click to **Submit** and begin to set up **Roles**
 
 Here, you can create your user seats and choose the roles and permissions of your project.
 
-![Roles](/images/roles.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/9832040f-2fde-4c9f-3a00-d44fb94d2700/public)
 
 The `Admin` is the default role.
 
@@ -119,14 +119,14 @@ The `Admin` is the default role.
 In Collections, you can create your own collection models, import your previously saved collection models or use shared collection models.
 
 
-![Collections](/images/collections.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/5ce35c39-2de4-428b-6e3d-62961ded2100/public)
 
 
 ### Creating a new collection
 
 To create a new collection, Click to **Create a new collection** button.
 
-![create-collection](/images/create-collection.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/59104a50-353c-4609-1a20-a209ec0cac00/public)
 
 - **Collection Name**: Your collection name should be like `my-blog`
 - **Select Permission**: Choose the permissions to role about this collection.
@@ -138,6 +138,6 @@ See details about i18(Localization) [here. ](/i18n)
  
 You can also convert your collection to markdown or MDX syntax instead of JSON. When you select **Set this collection Markdown Frontmatter Template**, and by setting the markdown path, you can use this collection whit the markdown editor. 
 
-![markdown-format](/images/markdown-format.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/2ed893b1-b271-4e85-8945-790a560dcf00/public)
 
 For using MDX syntax on your markdown files, you can check the **Use MDX format this template.**

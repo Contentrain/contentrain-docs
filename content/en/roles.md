@@ -1,5 +1,5 @@
 ---
-updatedAt: 1660317389524
+updatedAt: 1660625612947
 createdAt: 1650381644799
 slug: "roles"
 description: ""
@@ -13,7 +13,11 @@ position: 6
 
 ---
 
-Roles are where you define permissions and roles for different user groups.
+## Roles
+
+You can create suitable roles for all your teammates that you will invite to your project. 
+
+[Here](https://docs.contentrain.io/creating-new-project)'s how to edit permissions for these roles on your collections. 
 
 To create a new role, go to **Roles** and click on **create new permission**
 
@@ -29,4 +33,14 @@ To create a new role, go to **Roles** and click on **create new permission**
 
 - **Role Description:** Role's description.
 
-![Creating new support ticket](/images/new-roles.png)
+![](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/eb27788b-b6c1-4de1-5a57-b462989d5800/public)
+
+## Permissions
+
+**Permissions** is a flexible structure for authorizing the roles you create for your collections.
+
+You can give permissions to a collection separately for each role.
+
+![Creating new support ticket](/images/1660574669410_permissions.png)
+
+
