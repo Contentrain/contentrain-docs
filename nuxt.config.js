@@ -1,14 +1,15 @@
 import theme from "@nuxt/content-theme-docs";
-import { generateSitemap } from "@nuxtjs/sitemap/lib/generator";
-import pages from "./content/contentrain/content/en.json";
+// import pages from "./content/contentrain/content/en.json";
 
-const createSitemapRoutes = async () => {
-  const routes = [];
-  for (const page of pages) {
-    routes.push(`/${page.slug}`);
-  }
-  return routes;
-};
+// const createSitemapRoutes = async () => {
+//   const routes = [];
+//   for (const page of pages) {
+//     routes.push(`/${page.slug}`);
+//   }
+//   console.log({ theme, routes });
+//   return routes;
+// };
+// createSitemapRoutes();
 export default theme({
   docs: {
     primaryColor: "#0543f6",
@@ -18,7 +19,26 @@ export default theme({
   sitemap: {
     hostname: "https://docs.contentrain.io",
     gzip: true,
-    // routes: generate
+    routes: [
+      "/users",
+      "/typography",
+      "/support",
+      "/roles",
+      "/plans",
+      "/informations",
+      "/headless-cms",
+      "/project-options",
+      "/getting-started",
+      "/creating-new-project",
+      "/creating-contents",
+      "/color-palette",
+      "/i18n",
+      "/collections",
+      "/starters",
+      "/setup-your-project",
+      "/fields",
+      "/tutorials",
+    ],
   },
   buildModules: [
     [
